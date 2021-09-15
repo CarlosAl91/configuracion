@@ -1,0 +1,4 @@
+aplicacion:
+  errores:
+    badrequest: "Los valores para el calculo no son correctos"
+    internalServerError: "Error inesperado"
